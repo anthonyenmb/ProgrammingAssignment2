@@ -39,5 +39,3 @@ inv <- solve(data)
 x$setinv(inv)
 inv  
 }  
-
-}
